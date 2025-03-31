@@ -5,7 +5,7 @@
 #SBATCH --gres=gpu:1
 #SBATCH --mem=16G
 #SBATCH --time=08:00:00
-#SBATCH --begin=19:00  # <-- start at 7 PM German time
+#SBATCH --begin=19:20  # <-- start at 7 PM German time
 
 # Load environment
 source ~/.bashrc
